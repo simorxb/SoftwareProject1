@@ -1,0 +1,3 @@
+[submodule "Library1"]
+	path = Library1
+	url = https://github.com/simorxb/Library1
